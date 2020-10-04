@@ -1,6 +1,6 @@
 package com.kyhsgeekcode.janggi.gamelogic.janggi
 
-import GameRule
+import com.kyhsgeekcode.janggi.gamelogic.GameRule
 
 class JanggiGameRule : GameRule() {
 }
